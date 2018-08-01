@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1533088668 source:c:\users\toti\desktop\final depositos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Deposito.h"
+
+1532351599 c:\users\toti\desktop\final depositos\arraylist.h
+
+1533083615 c:\users\toti\desktop\final depositos\deposito.h
+
+1533084784 source:c:\users\toti\desktop\final depositos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Deposito.h"
+
+1533088591 source:c:\users\toti\desktop\final depositos\deposito.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Deposito.h"
+
